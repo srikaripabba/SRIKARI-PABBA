@@ -1,0 +1,117 @@
+[
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Operating System ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_6734437d3ae44e13aa864b0edacac758.pdf"
+    },
+    
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Java Programming ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_eb0147466df046f1bfbb4e67b2eee141.pdf"
+    },
+    
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Object Oriented Software Engineering ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e1978829eb0947f88d1a839a521bd6a1.pdf"
+    },
+    
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Discrete Mathematics ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_5f3935f3fc50477bac1e8b5bb83e7d6d.pdf"
+    },
+    
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Computer Networks ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_81d3d18781d84e2485aaf1758c8e3fda.pdf"
+    },
+    
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Financial Accounting and Management ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_b6011f1e6df04b11a4f193cf5dc8cd70.pdf"
+    },
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Design And Analysis Of Algorithms ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96f945f42a254315bd82a71532c5ec65.pdf"
+    },
+    {
+        "Year":"II ",
+        "Sem":"I",
+        "QuestionBank":"Database Management System ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_188d0b4cb01b4dcd9302d3b81400a243.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Strategic Management ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_48acbf538cc042169cc6bc916a8fc54b.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Machine Learning for Data Science ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_13073066d7834a869a6ac4f49c545b90.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Compiler Design ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e18ad47cb2574010afba33e24e81d833.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Cloud Computing and Services ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_293c7c58ace34f6e82493086e21a10c8.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Object Oriented Software Engineering ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_b8e70001ec074f20b3c4916dee7428f6.pdf"
+    },
+    {
+        "Year":"III",
+        "Sem":"I",
+        "QuestionBank":"Computer Networks ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_00ad4a1026074852ab0ad3be252858ec.pdf"
+    },
+    {
+        "Year":"IV ",
+        "Sem":"I",
+        "QuestionBank":"Software Project Management ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_ae8a3233049648a3b9013ada4bc6435b.pdf"
+    },
+    {
+        "Year":"IV ",
+        "Sem":"I",
+        "QuestionBank":"Deep Learning and Applications ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_9ccb6a6c470e4155ab8a5bbdea9a6ff8.pdf"
+    },
+    {
+        "Year":"IV",
+        "Sem":"I",
+        "QuestionBank":"Big Data Analytics and Applications ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_99a0b92c943e490f892c3a6b1afc5438.pdf"
+    },
+    {
+        "Year":"IV ",
+        "Sem":"I",
+        "QuestionBank":"Internet Of Things and Applications ",
+        "Manuals":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_51c2d82bd0d6477aa2f9780f1d3b7fcf.pdf"
+    }
+
+
+]
